@@ -37,4 +37,4 @@ repository.
 ## Open questions
 None blocking. Chunk size and how many chunks to retrieve are settled in the spec.
 
-**Approved by:** Ethan Ambrossi, 2026-10-07
+**Approved by:** Ethan Ambrossi, 2026-10-06
